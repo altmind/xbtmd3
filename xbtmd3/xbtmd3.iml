@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="AutoImportedSourceRoots">
+    <option name="directories">
+      <list>
+        <option value="$MODULE_DIR$/src/main/java" />
+        <option value="$MODULE_DIR$/src/main/kotlin" />
+        <option value="$MODULE_DIR$/src/test/java" />
+        <option value="$MODULE_DIR$/src/test/kotlin" />
+      </list>
+    </option>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/kotlin" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.1.2-2" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.21" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-simple:1.7.21" level="project" />
+    <orderEntry type="module" module-name="xchange-stream-core" />
+    <orderEntry type="module" module-name="service-core" />
+    <orderEntry type="library" name="Maven: org.knowm.xchange:xchange-core:4.2.0" level="project" />
+    <orderEntry type="library" name="Maven: com.github.mmazi:rescu:1.9.0" level="project" />
+    <orderEntry type="library" name="Maven: javax.ws.rs:jsr311-api:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: net.iharder:base64:2.3.9" level="project" />
+    <orderEntry type="library" name="Maven: oauth.signpost:signpost-core:1.2.1.2" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.3" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.5" level="project" />
+    <orderEntry type="library" name="Maven: io.reactivex.rxjava2:rxjava:2.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.0" level="project" />
+    <orderEntry type="module" module-name="xchange-bitstamp" />
+    <orderEntry type="module" module-name="service-pusher" />
+    <orderEntry type="library" name="Maven: com.pusher:pusher-java-client:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.pusher:java-websocket:1.4.1" level="project" />
+    <orderEntry type="library" name="Maven: org.knowm.xchange:xchange-bitstamp:4.2.0" level="project" />
+    <orderEntry type="module" module-name="xchange-gdax" />
+    <orderEntry type="module" module-name="service-netty" />
+    <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.7.Final" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.6" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.6" level="project" />
+    <orderEntry type="library" name="Maven: org.knowm.xchange:xchange-gdax:4.2.0" level="project" />
+    <orderEntry type="module" module-name="xchange-poloniex" />
+    <orderEntry type="module" module-name="service-wamp" />
+    <orderEntry type="library" name="Maven: ws.wamp.jawampa:jawampa-netty:0.4.2" level="project" />
+    <orderEntry type="library" name="Maven: ws.wamp.jawampa:jawampa-core:0.4.2" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-http:4.0.24.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec:4.0.24.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport:4.0.24.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-handler:4.0.24.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-buffer:4.0.24.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-common:4.0.24.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.msgpack:jackson-dataformat-msgpack:0.7.0-p7" level="project" />
+    <orderEntry type="library" name="Maven: org.msgpack:msgpack-core:0.7.0-p7" level="project" />
+    <orderEntry type="library" name="Maven: com.github.akarnokd:rxjava2-interop:0.8.3" level="project" />
+    <orderEntry type="library" name="Maven: io.reactivex:rxjava:1.2.5" level="project" />
+    <orderEntry type="library" name="Maven: org.knowm.xchange:xchange-poloniex:4.2.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:22.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:1.3.9" level="project" />
+    <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:2.0.18" level="project" />
+    <orderEntry type="library" name="Maven: com.google.j2objc:j2objc-annotations:1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.14" level="project" />
+    <orderEntry type="library" name="Maven: org.jodd:jodd-lagarto:3.8.6" level="project" />
+    <orderEntry type="library" name="Maven: org.jodd:jodd-core:3.8.6" level="project" />
+    <orderEntry type="library" name="Maven: org.jodd:jodd-log:3.8.6" level="project" />
+    <orderEntry type="library" name="Maven: org.influxdb:influxdb-java:2.5" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.retrofit2:retrofit:2.1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.retrofit2:converter-moshi:2.1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.moshi:moshi:1.2.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okhttp3:okhttp:3.5.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okio:okio:1.11.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okhttp3:logging-interceptor:3.5.0" level="project" />
+  </component>
+</module>

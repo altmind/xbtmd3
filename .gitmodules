@@ -1,0 +1,4 @@
+[submodule "xchange-stream"]
+	path = xchange-stream
+	url = git@github.com:altmind/xchange-stream.git
+	branch = develop
